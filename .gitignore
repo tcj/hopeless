@@ -1,0 +1,9 @@
+*.gst*
+*.o
+*.lnk
+Build*
+Edit*
+Debug*
+Find*
+*.map*
+*~
